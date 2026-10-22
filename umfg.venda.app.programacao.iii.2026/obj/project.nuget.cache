@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ddRETcaK9Mg=",
+  "success": true,
+  "projectFilePath": "E:\\UMFG\\2026\\Programacao III\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juliano.maciel\\.nuget\\packages\\materialdesigncolors\\5.4.0\\materialdesigncolors.5.4.0.nupkg.sha512",
+    "C:\\Users\\juliano.maciel\\.nuget\\packages\\materialdesignthemes\\5.4.0\\materialdesignthemes.5.4.0.nupkg.sha512",
+    "C:\\Users\\juliano.maciel\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.142\\microsoft.xaml.behaviors.wpf.1.1.142.nupkg.sha512"
+  ],
+  "logs": []
+}

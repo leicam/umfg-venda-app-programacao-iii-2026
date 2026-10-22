@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>umfg.venda.app.programacao.iii._2026</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\Imagens\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="UserControls\" />
+    <Folder Include="Modelos\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Comandos\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignColors" Version="5.4.0" />
+    <PackageReference Include="MaterialDesignThemes" Version="5.4.0" />
+  </ItemGroup>
+
+</Project>
