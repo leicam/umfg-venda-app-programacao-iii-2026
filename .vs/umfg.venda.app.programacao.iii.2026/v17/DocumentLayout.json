@@ -1,26 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\UMFG\\2026\\Programacao III\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\",
+  "WorkspaceRootPath": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\abstracoes\\abstractnotifypropertychange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\abstracoes\\abstractnotifypropertychange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\viewmodels\\receberpedidoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\viewmodels\\receberpedidoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\usercontrols\\ucreceberpedido.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\usercontrols\\ucreceberpedido.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\comandos\\cancelarpagamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\comandos\\cancelarpagamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\viewmodels\\listarprodutosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\viewmodels\\listarprodutosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\usercontrols\\uclistarprodutos.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\usercontrols\\uclistarprodutos.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\comandos\\confirmarpagamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\comandos\\confirmarpagamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\comandos\\receberpedidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\comandos\\receberpedidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\comandos\\iniciarpedidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\comandos\\iniciarpedidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\usercontrols\\uclistarprodutos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\usercontrols\\uclistarprodutos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\usercontrols\\ucreceberpedido.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\usercontrols\\ucreceberpedido.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\abstracoes\\abstractviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\abstracoes\\abstractviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\comandos\\removeritemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\comandos\\removeritemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\comandos\\adicionaritemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\comandos\\adicionaritemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\modelos\\pedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\modelos\\pedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|e:\\umfg\\2026\\programacao iii\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\abstracoes\\abstractmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A9B26B-0DF4-4085-A296-1C9A1A5248A6}|umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj|solutionrelative:umfg.venda.app.programacao.iii.2026\\abstracoes\\abstractmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +86,245 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AbstractNotifyPropertyChange.cs",
-              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Abstracoes\\AbstractNotifyPropertyChange.cs",
-              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\Abstracoes\\AbstractNotifyPropertyChange.cs",
-              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Abstracoes\\AbstractNotifyPropertyChange.cs",
-              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\Abstracoes\\AbstractNotifyPropertyChange.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAoAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T23:30:50.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "umfg.venda.app.programacao.iii.2026",
-              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj",
-              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj",
-              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj",
-              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-22T22:42:36.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\MainWindow.xaml",
-              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\MainWindow.xaml",
-              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\MainWindow.xaml",
+              "DocumentIndex": 8,
+              "Title": "ucListarProdutos.xaml",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\UserControls\\ucListarProdutos.xaml",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\UserControls\\ucListarProdutos.xaml",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\UserControls\\ucListarProdutos.xaml",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\UserControls\\ucListarProdutos.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-22T22:20:31.601Z",
+              "WhenOpened": "2026-10-26T22:20:11.955Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "App.xaml",
-              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\App.xaml",
-              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\App.xaml",
-              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\App.xaml",
-              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\App.xaml",
+              "Title": "CancelarPagamentoCommand.cs",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Comandos\\CancelarPagamentoCommand.cs",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\Comandos\\CancelarPagamentoCommand.cs",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Comandos\\CancelarPagamentoCommand.cs",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\Comandos\\CancelarPagamentoCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T01:09:01.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ucReceberPedido.xaml",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\UserControls\\ucReceberPedido.xaml",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\UserControls\\ucReceberPedido.xaml",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\UserControls\\ucReceberPedido.xaml",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\UserControls\\ucReceberPedido.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-22T22:23:01.58Z",
+              "WhenOpened": "2026-11-05T23:00:06.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReceberPedidoViewModel.cs",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\ViewModels\\ReceberPedidoViewModel.cs",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\ViewModels\\ReceberPedidoViewModel.cs",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\ViewModels\\ReceberPedidoViewModel.cs",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\ViewModels\\ReceberPedidoViewModel.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowC8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T00:57:19.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListarProdutosViewModel.cs",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\ViewModels\\ListarProdutosViewModel.cs",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\ViewModels\\ListarProdutosViewModel.cs",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\ViewModels\\ListarProdutosViewModel.cs",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\ViewModels\\ListarProdutosViewModel.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIA7wDQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T23:00:42.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\MainWindow.xaml.cs",
-              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\MainWindow.xaml.cs",
-              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wBkAAAAqAAAAAAAAAA==",
+              "Title": "ucListarProdutos.xaml.cs",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\UserControls\\ucListarProdutos.xaml.cs",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\UserControls\\ucListarProdutos.xaml.cs",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\UserControls\\ucListarProdutos.xaml.cs",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\UserControls\\ucListarProdutos.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAD4vyIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-22T22:20:26.185Z",
+              "WhenOpened": "2026-10-26T22:55:59.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfirmarPagamentoCommand.cs",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Comandos\\ConfirmarPagamentoCommand.cs",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\Comandos\\ConfirmarPagamentoCommand.cs",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Comandos\\ConfirmarPagamentoCommand.cs",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\Comandos\\ConfirmarPagamentoCommand.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T00:31:39.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReceberPedidoCommand.cs",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Comandos\\ReceberPedidoCommand.cs",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\Comandos\\ReceberPedidoCommand.cs",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Comandos\\ReceberPedidoCommand.cs",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\Comandos\\ReceberPedidoCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T00:59:46.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IniciarPedidoCommand.cs",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Comandos\\IniciarPedidoCommand.cs",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\Comandos\\IniciarPedidoCommand.cs",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Comandos\\IniciarPedidoCommand.cs",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\Comandos\\IniciarPedidoCommand.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAwwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T23:12:34.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\MainWindow.xaml.cs",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T23:15:16.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\App.xaml.cs",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\App.xaml.cs",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\App.xaml.cs",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T00:36:05.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ucReceberPedido.xaml.cs",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\UserControls\\ucReceberPedido.xaml.cs",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\UserControls\\ucReceberPedido.xaml.cs",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\UserControls\\ucReceberPedido.xaml.cs",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\UserControls\\ucReceberPedido.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAtwD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T01:04:38.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AbstractViewModel.cs",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Abstracoes\\AbstractViewModel.cs",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\Abstracoes\\AbstractViewModel.cs",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Abstracoes\\AbstractViewModel.cs",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\Abstracoes\\AbstractViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA5wBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T23:03:35.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\App.xaml",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\App.xaml",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\App.xaml",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-05T23:07:42.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdicionarItemCommand.cs",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Comandos\\AdicionarItemCommand.cs",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\Comandos\\AdicionarItemCommand.cs",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Comandos\\AdicionarItemCommand.cs",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\Comandos\\AdicionarItemCommand.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T23:29:20.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RemoverItemCommand.cs",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Comandos\\RemoverItemCommand.cs",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\Comandos\\RemoverItemCommand.cs",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Comandos\\RemoverItemCommand.cs",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\Comandos\\RemoverItemCommand.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T00:22:02.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PedidoModel.cs",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Modelos\\PedidoModel.cs",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\Modelos\\PedidoModel.cs",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Modelos\\PedidoModel.cs",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\Modelos\\PedidoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T22:20:25.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AbstractModel.cs",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Abstracoes\\AbstractModel.cs",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\Abstracoes\\AbstractModel.cs",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\Abstracoes\\AbstractModel.cs",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\Abstracoes\\AbstractModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T22:21:40.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "umfg.venda.app.programacao.iii.2026\\MainWindow.xaml",
+              "ToolTip": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\MainWindow.xaml",
+              "RelativeToolTip": "umfg.venda.app.programacao.iii.2026\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-26T22:17:01.53Z",
               "EditorCaption": ""
             }
           ]

@@ -348,11 +348,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\UMFG\\2026\\Programacao III\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj",
+      "projectUniqueName": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj",
       "projectName": "umfg.venda.app.programacao.iii.2026",
-      "projectPath": "E:\\UMFG\\2026\\Programacao III\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj",
+      "projectPath": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026.csproj",
       "packagesPath": "C:\\Users\\juliano.maciel\\.nuget\\packages\\",
-      "outputPath": "E:\\UMFG\\2026\\Programacao III\\umfg.progracaoiii.solid\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\obj\\",
+      "outputPath": "E:\\UMFG\\2026\\Programacao III\\umfg.venda.app.programacao.iii.2026\\umfg.venda.app.programacao.iii.2026\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

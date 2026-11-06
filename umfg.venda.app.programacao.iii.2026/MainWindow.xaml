@@ -19,21 +19,27 @@
                     Margin="25 0 0 0">
             <TextBlock FontSize="28" 
                        FontWeight="SemiBold"
-                       FontFamily="Trebuchet MS">Menu Principal</TextBlock>
+                       FontFamily="Trebuchet MS"
+                       Text="{Binding Titulo, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}"/>
         </StackPanel>
 
-        <Button x:Name="btnOlaMundo"
+        <Button x:Name="btnIniciarPedido"
                 Grid.Row="1"
                 Width="250"
                 Height="250"
-                VerticalAlignment="Center"
-                HorizontalAlignment="Center"
-                Click="btnOlaMundo_Click"
                 Content="_Iniciar"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"                
+                CommandParameter="{Binding}"
+                Command="{Binding IniciarPedido, UpdateSourceTrigger=PropertyChanged}"
+                Style="{StaticResource MaterialDesignRaisedButton}"
+                Background="#2196F3" BorderBrush="#2196F3" Foreground="White"
                 FontSize="30"
-                FontFamily="Trebuchet MS"
-                Foreground="White"
-                Style="{StaticResource MaterialDesignRaisedLightButton}"
-                />
+                FontFamily="Trebuchet MS"/>
+
+        <Frame Grid.Row="1"
+               Content="{Binding UserControl}"
+               NavigationUIVisibility="Hidden">
+        </Frame>
     </Grid>
 </Window>

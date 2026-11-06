@@ -8,22 +8,18 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using umfg.venda.app.programacao.iii._2026.ViewModels;
 
-namespace umfg.venda.app.programacao.iii._2026
+namespace umfg.venda.app.programacao.iii._2026;
+
+/// <summary>
+/// Interaction logic for MainWindow.xaml
+/// </summary>
+public partial class MainWindow : Window
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
-    public partial class MainWindow : Window
+    public MainWindow()
     {
-        public MainWindow()
-        {
-            InitializeComponent();
-        }
-
-        private void btnOlaMundo_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Olá mundo!");
-        }
+        InitializeComponent();
+        DataContext = new MainWindowViewModel();
     }
 }

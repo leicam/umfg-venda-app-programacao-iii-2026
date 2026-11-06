@@ -30,5 +30,11 @@
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("robotocondensed-light.ttf")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("robotocondensed-lightitalic.ttf")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("robotocondensed-regular.ttf")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/icones/xbacon.ico")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/imagens/batata.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/imagens/combo.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/imagens/lanche.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/imagens/mcflurry.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/imagens/refrigerante.png")]
 
 

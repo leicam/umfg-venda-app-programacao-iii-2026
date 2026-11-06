@@ -7,15 +7,37 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>Resources\Icones\xbacon.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Resources\Imagens\" />
-    <Folder Include="ViewModels\" />
-    <Folder Include="UserControls\" />
-    <Folder Include="Modelos\" />
-    <Folder Include="Interfaces\" />
-    <Folder Include="Comandos\" />
+    <None Remove="Resources\Icones\xbacon.ico" />
+    <None Remove="Resources\Imagens\batata.png" />
+    <None Remove="Resources\Imagens\combo.png" />
+    <None Remove="Resources\Imagens\lanche.png" />
+    <None Remove="Resources\Imagens\mcflurry.png" />
+    <None Remove="Resources\Imagens\refrigerante.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\Icones\xbacon.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Imagens\batata.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Imagens\combo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Imagens\lanche.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Imagens\mcflurry.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Imagens\refrigerante.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>
